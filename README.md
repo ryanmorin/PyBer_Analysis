@@ -13,4 +13,4 @@ PyBer could consider charging all of it's drivers a small administration fee.  T
 
 Finally PyBer could charge a different rate based on the time of day that the customer used its service. PyBer is able to take advantage of demand for its service and generates more revenue.
 
-![revenue_by_location]
+![revenue_by_location](https://github.com/ryanmorin/PyBer_Analysis/blob/main/analysis/final_fig.png)
