@@ -12,3 +12,5 @@ I'm assuming that the drivers are independent contractors and therefore PyBer do
 PyBer could consider charging all of it's drivers a small administration fee.  Therefore regardless of the amount of revenue that a driver generates, PyBer gets compensated.
 
 Finally PyBer could charge a different rate based on the time of day that the customer used its service. PyBer is able to take advantage of demand for its service and generates more revenue.
+
+![revenue_by_location]
